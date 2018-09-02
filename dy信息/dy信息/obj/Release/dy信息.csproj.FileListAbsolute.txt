@@ -1,0 +1,9 @@
+G:\小工具\dy信息\dy信息\bin\Release\dy信息.exe.config
+G:\小工具\dy信息\dy信息\bin\Release\dy信息.exe
+G:\小工具\dy信息\dy信息\bin\Release\dy信息.pdb
+G:\小工具\dy信息\dy信息\obj\Release\dy信息.Form1.resources
+G:\小工具\dy信息\dy信息\obj\Release\dy信息.Properties.Resources.resources
+G:\小工具\dy信息\dy信息\obj\Release\dy信息.csproj.GenerateResource.Cache
+G:\小工具\dy信息\dy信息\obj\Release\dy信息.exe
+G:\小工具\dy信息\dy信息\obj\Release\dy信息.pdb
+G:\小工具\dy信息\dy信息\obj\Release\dy信息.csprojResolveAssemblyReference.cache

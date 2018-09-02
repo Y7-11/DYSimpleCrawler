@@ -1,0 +1,17 @@
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\bin\Debug\dy信息.exe.config
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\bin\Debug\dy信息.exe
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\bin\Debug\dy信息.pdb
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\obj\Debug\dy信息.csprojResolveAssemblyReference.cache
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\obj\Debug\dy信息.Form1.resources
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\obj\Debug\dy信息.Properties.Resources.resources
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\obj\Debug\dy信息.csproj.GenerateResource.Cache
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\obj\Debug\dy信息.exe
+C:\Users\Hi\Desktop\小工具\dy信息\dy信息\obj\Debug\dy信息.pdb
+G:\小工具\dy信息\dy信息\bin\Debug\dy信息.exe.config
+G:\小工具\dy信息\dy信息\bin\Debug\dy信息.exe
+G:\小工具\dy信息\dy信息\bin\Debug\dy信息.pdb
+G:\小工具\dy信息\dy信息\obj\Debug\dy信息.Form1.resources
+G:\小工具\dy信息\dy信息\obj\Debug\dy信息.Properties.Resources.resources
+G:\小工具\dy信息\dy信息\obj\Debug\dy信息.csproj.GenerateResource.Cache
+G:\小工具\dy信息\dy信息\obj\Debug\dy信息.exe
+G:\小工具\dy信息\dy信息\obj\Debug\dy信息.pdb
